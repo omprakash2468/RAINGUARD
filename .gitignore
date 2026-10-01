@@ -1,0 +1,80 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+env/
+.venv/
+ENV/
+
+# =========================
+# Jupyter / Colab
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Environment & secrets
+# =========================
+.env
+.env.*
+*.key
+*.pem
+secrets.json
+credentials.json
+
+# Google Earth Engine / Google Cloud credentials
+service-account*.json
+
+# =========================
+# Data files
+# =========================
+data/
+*.csv
+*.tif
+*.tiff
+*.nc
+*.nc4
+*.h5
+*.hdf
+*.zip
+*.gz
+
+# =========================
+# Large ML files
+# =========================
+models/
+*.pt
+*.pth
+*.h5
+*.keras
+*.onnx
+*.pkl
+*.joblib
+
+# =========================
+# Generated outputs
+# =========================
+outputs/
+temp/
+tmp/
+logs/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
