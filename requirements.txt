@@ -1,0 +1,27 @@
+# RAINGUARD Python dependencies
+earthengine-api
+geemap
+rasterio
+rioxarray
+xarray
+netCDF4
+geopandas
+shapely
+pyproj
+fiona
+osmnx
+xgboost
+scikit-learn
+torch
+torchvision
+matplotlib
+folium
+branca
+mapclassify
+streamlit
+streamlit-folium
+tqdm
+requests
+scipy
+numpy
+pandas
